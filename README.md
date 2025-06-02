@@ -35,9 +35,9 @@ The dashboard enables your team to:
 - Enhance overall customer satisfaction and service efficiency
 - Make data-driven decisions for product improvement
 ---
-## 📷 Screenshot (Add Yours)
+## 📷 Screenshot 
 
-![Cooler FCR Dashboard](images/dashboard_preview.png)
+![Cooler FCR Dashboard]
 
 ---
 

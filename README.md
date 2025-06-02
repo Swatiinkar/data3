@@ -43,3 +43,9 @@ The dashboard enables your team to:
 ---
 
 ## 📁 File Structure
+Cooler-FCR-Overview/
+│
+├── README.md                         # Project description and instructions
+├── Cooler FCR Overview.pbix          # Main Power BI dashboard file
+├── images/                           # Folder for dashboard screenshots
+│   └── dashboard_preview.png         # Image preview of the Power BI dashboard

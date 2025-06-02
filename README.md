@@ -37,7 +37,8 @@ The dashboard enables your team to:
 ---
 ## 📷 Screenshot 
 
-![Cooler FCR Dashboard]
+![Cooler FCR Dashboard]![dashboard of FCR](https://github.com/user-attachments/assets/06ce525a-fe34-4237-b676-889bf2504bc5)
+
 
 ---
 
